@@ -1,0 +1,7 @@
+| id | name          | latitude | longitude | cuisine | rating | cluster |
+| -- | ------------- | -------- | --------- | ------- | ------ | ------- |
+| 1  | Restaurant\_1 | 6.512345 | 3.412345  | Italian | 4.2    | 0       |
+| 2  | Restaurant\_2 | 6.534567 | 3.356789  | Chinese | 3.8    | 0       |
+| 3  | Restaurant\_3 | 6.478901 | 3.501234  | Mexican | 4.5    | 1       |
+| 4  | Restaurant\_4 | 6.589012 | 3.455678  | Cafe    | 2.9    | -1      |
+| 5  | Restaurant\_5 | 6.445678 | 3.389012  | Indian  | 4.1    | 1       |
